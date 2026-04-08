@@ -1,0 +1,6 @@
+name,",city,","lat,","lon,","category,",description,",website"
+Helping Hands,",Delhi,","28.6139,","77.2090,","education,","Provides education to underprivileged children,",https://example.org
+"Food For All,","Delhi,","28.7041,","77.1025,","food,","Distributes food to homeless people,",https://example.org
+"Animal Rescue India,",Delhi,",28.5355,","77.3910,",animal,",Rescues and shelters stray animals,",https://example.org
+"Health First,","Delhi,",28.4595,",77.0266,","health,","Provides free medical camps,",https://example.org
+"Clean Earth,","Delhi,",28.4089,",77.3178,",environment,",Works on environmental sustainability",",https://example.org"
